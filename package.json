@@ -1,0 +1,27 @@
+{
+  "name": "study-leetcode",
+  "version": "1.0.0",
+  "description": "Using JavaScript to brush questions in leetcode",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxyue25/study-leetcode.git"
+  },
+  "keywords": [
+    "leetcode",
+    "javascript"
+  ],
+  "author": "zxyue25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxyue25/study-leetcode/issues"
+  },
+  "homepage": "https://github.com/zxyue25/study-leetcode#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
