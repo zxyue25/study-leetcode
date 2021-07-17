@@ -4,6 +4,7 @@
   "description": "Using JavaScript to brush questions in leetcode",
   "main": "index.js",
   "scripts": {
+    "start": "npm run dev",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
